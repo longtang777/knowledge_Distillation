@@ -1,2 +1,3 @@
 # knowledge_Distillation
 知识蒸馏
+teacher_model是MobileNetV1的模型，训练文件对图像进行了增强处理
